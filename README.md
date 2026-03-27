@@ -5,5 +5,5 @@ Nome: Giovanni Oliveira Martins Rosa.
 Matrícula: 908174
 
 ![alt text](network.png)
-![alt text](print.png)
+![alt text]("C:\Users\giova\semana-2-atividade-pr-tica-git-Giovanni229-bit\print.png")
 
