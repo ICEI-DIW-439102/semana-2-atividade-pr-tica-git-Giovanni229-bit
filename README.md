@@ -5,5 +5,5 @@ Nome: Giovanni Oliveira Martins Rosa
 Matrícula: 908174
 
 ![alt text](network.png)
-![alt text](hello.png)
+![alt text](print.png)
 
