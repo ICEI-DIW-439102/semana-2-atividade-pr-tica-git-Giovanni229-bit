@@ -10,6 +10,6 @@ print network:
 
 print site:
 
-![alt text](Print.png)
+![alt text](print.png)
 
 
