@@ -4,8 +4,10 @@ Nome: Giovanni Oliveira Martins Rosa.
 
 Matrícula: 908174
 
+print network:
+![alt text](network.png)
 print site:
 
-<img src="C:\Users\giova\Documents\GitHub\Currículo - Engenharia de Software - Google Chrome 08_04_2026 09_43_57.png"
+![alt text](Print.png)
 
 
