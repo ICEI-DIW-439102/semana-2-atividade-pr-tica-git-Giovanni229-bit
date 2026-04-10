@@ -6,6 +6,6 @@ Matrícula: 908174
 
 print site:
 
-![alt text]("C:\Users\giova\Documents\GitHub\Currículo - Engenharia de Software - Google Chrome 08_04_2026 09_43_57.png")
+![alt text](Google Chrome 08_04_2026 09_43_57.png)
 
 
